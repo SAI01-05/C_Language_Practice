@@ -1,0 +1,12 @@
+.Vh
+{
+    background-color: aquamarine;
+    height: 50vh;
+   
+}
+.Vw
+{
+    background-color: rgb(99, 133, 121);
+   
+    width: 50vw;
+}
