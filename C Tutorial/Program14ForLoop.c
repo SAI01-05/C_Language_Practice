@@ -1,0 +1,11 @@
+#include<stdio.h>
+// FOR LOOP
+
+int main()
+{
+    int i;
+    for(i=0;i<4;i++)
+    {
+        printf("%d\n",i);
+    }
+}
